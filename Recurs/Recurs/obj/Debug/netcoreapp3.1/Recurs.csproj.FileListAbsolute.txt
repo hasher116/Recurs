@@ -1,0 +1,13 @@
+E:\Projects\C# console\Recurs\Recurs\Recurs\bin\Debug\netcoreapp3.1\Recurs.exe
+E:\Projects\C# console\Recurs\Recurs\Recurs\bin\Debug\netcoreapp3.1\Recurs.deps.json
+E:\Projects\C# console\Recurs\Recurs\Recurs\bin\Debug\netcoreapp3.1\Recurs.runtimeconfig.json
+E:\Projects\C# console\Recurs\Recurs\Recurs\bin\Debug\netcoreapp3.1\Recurs.runtimeconfig.dev.json
+E:\Projects\C# console\Recurs\Recurs\Recurs\bin\Debug\netcoreapp3.1\Recurs.dll
+E:\Projects\C# console\Recurs\Recurs\Recurs\bin\Debug\netcoreapp3.1\Recurs.pdb
+E:\Projects\C# console\Recurs\Recurs\Recurs\obj\Debug\netcoreapp3.1\Recurs.csprojAssemblyReference.cache
+E:\Projects\C# console\Recurs\Recurs\Recurs\obj\Debug\netcoreapp3.1\Recurs.AssemblyInfoInputs.cache
+E:\Projects\C# console\Recurs\Recurs\Recurs\obj\Debug\netcoreapp3.1\Recurs.AssemblyInfo.cs
+E:\Projects\C# console\Recurs\Recurs\Recurs\obj\Debug\netcoreapp3.1\Recurs.csproj.CoreCompileInputs.cache
+E:\Projects\C# console\Recurs\Recurs\Recurs\obj\Debug\netcoreapp3.1\Recurs.dll
+E:\Projects\C# console\Recurs\Recurs\Recurs\obj\Debug\netcoreapp3.1\Recurs.pdb
+E:\Projects\C# console\Recurs\Recurs\Recurs\obj\Debug\netcoreapp3.1\Recurs.genruntimeconfig.cache
